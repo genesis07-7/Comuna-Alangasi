@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Comuna-Alangasi/static/css/main.16d1de23.css",
+    "main.js": "/Comuna-Alangasi/static/js/main.7977d99b.js",
+    "static/media/JuliusSansOne-Regular.ttf": "/Comuna-Alangasi/static/media/JuliusSansOne-Regular.2de04709e76a8c3a838d.ttf",
+    "index.html": "/Comuna-Alangasi/index.html",
+    "main.16d1de23.css.map": "/Comuna-Alangasi/static/css/main.16d1de23.css.map",
+    "main.7977d99b.js.map": "/Comuna-Alangasi/static/js/main.7977d99b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d1de23.css",
+    "static/js/main.7977d99b.js"
+  ]
+}
